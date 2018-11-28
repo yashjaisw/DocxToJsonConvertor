@@ -1,4 +1,4 @@
-package com.extension.ChromeFormAutoInputter;
+package com.extension.DocToJsonConvertor;
 
 public class FormResponse {
 

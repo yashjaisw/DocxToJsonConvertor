@@ -1,4 +1,4 @@
-package com.extension.ChromeFormAutoInputter;
+package com.extension.DocToJsonConvertor;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

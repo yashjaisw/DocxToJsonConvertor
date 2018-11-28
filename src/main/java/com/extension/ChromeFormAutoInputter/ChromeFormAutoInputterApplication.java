@@ -1,4 +1,4 @@
-package com.extension.ChromeFormAutoInputter;
+package com.extension.DocToJsonConvertor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

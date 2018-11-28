@@ -1,4 +1,4 @@
-package com.extension.ChromeFormAutoInputter;
+package com.extension.DocToJsonConvertor;
 
 import org.apache.tika.exception.TikaException;
 import org.xml.sax.SAXException;
